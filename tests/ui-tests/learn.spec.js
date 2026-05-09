@@ -26,7 +26,7 @@ test("learn pw on website formy project - autocomplete", async ({ page }) => {
   await page.getByRole("textbox", { name: "State" }).fill('Indonesia');
   await page.getByRole("textbox", { name: "Zip code" }).fill('50007');
   await page.getByRole("textbox", { name: "Country" }).fill('Indonesia');
-  
+    
   // several ways to find the element using locator
   // id -> #address
   // atribute -> [placeholder="Enter your address"]
