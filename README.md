@@ -9,11 +9,11 @@ This is my documentation of my journey learning my first automation testing tool
 ## 🚀 Learning Objectives
 
 - [x] Setting up Playwright and environment configuration.
-- [ ] Understanding Locators, Selectors, and Assertions.
-- [ ] Implementing **End-to-End (E2E)** testing flows.
+- [x] Understanding Locators, Selectors, and Assertions.
+- [x] Implementing **End-to-End (E2E)** testing flows.
 - [ ] Mastering **API Testing** (Request and Response validation).
 - [ ] Implementing the **Page Object Model (POM)** for better scalability.
-- [ ] Integrating tests with GitHub Actions (CI/CD).
+- [x] Integrating tests with GitHub Actions (CI/CD).
 
 ## 🛠️ Tech Stack
 
